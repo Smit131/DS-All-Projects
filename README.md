@@ -1,2 +1,2 @@
 # DS-All-Projects
-These folders contains Datascience projetc that I have done with code and data links
+These folders contains all the Datascience projets that I have done with code files and data links
